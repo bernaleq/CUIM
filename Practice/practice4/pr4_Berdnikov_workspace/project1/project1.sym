@@ -1,0 +1,83 @@
+__Lrdata 2D FFFFFFD6 DATA
+__Hrbss 2D 0 DATA
+__Lrbss 20 0 DATA
+__Birdata 3 FFFFFFD6 DATA
+__Hirdata 2D FFFFFFD6 DATA
+__Lirdata 2D FFFFFFD6 DATA
+powerup A8 0 CODE
+__Htext 2D 0
+__Ltext 2D 0
+__Hcode 2D 0
+__Lcode 2D 0
+__Hdata 100 0 CODE
+__Hconst 100 0 CODE
+__Ldata 100 0 CODE
+__Lconst 100 0 CODE
+__Bbss 2D 0 XDATA
+__Hbss 2D 0 XDATA
+__Hstrings 100 0 CODE
+__Lbss 2D 0 XDATA
+__Lstrings 100 0 CODE
+?a_msec 2B 0 DATA
+__S0 100 0
+start1 94 0 CODE
+__Hnvram 2D 0 XDATA
+small_model 1 0
+__Lnvram 2D 0 XDATA
+_msec 3 0 CODE
+__Hheap 2D 0 XDATA
+__Lheap 2D 0 XDATA
+_main 3A 0 CODE
+?a_main 20 0 DATA
+_exit A5 0 CODE
+start 0 0 CODE
+intlevel0 0 0
+__Brbit 20 20 BITSEG
+__Hrbit 0 20 BITSEG
+intlevel1 0 0
+__Hvectors 3 0 CODE
+__Lrbit 0 20 BITSEG
+__Lvectors 0 0 CODE
+__Bidata 2D 0 DATA
+__Hidata 2D 0 DATA
+__Lidata 2D 0 DATA
+stack_internal 1 0
+__Brdata 3 FFFFFFD6 DATA
+__Hrdata 2D FFFFFFD6 DATA
+%segments
+vectors 0 AA CODE
+rbit 0 C BITSEG
+%locals
+Z:\main_0.obj
+D:\Study\CUiMp\sem6\Berdnikov\pr4\pr4_Berdnikov_workspace\project1\main.c
+3 3 0 CODE
+4 9 0 CODE
+6 B 0 CODE
+7 E 0 CODE
+8 11 0 CODE
+10 13 0 CODE
+11 1A 0 CODE
+12 1C 0 CODE
+4 1E 0 CODE
+14 37 0 CODE
+16 3A 0 CODE
+19 3C 0 CODE
+20 3F 0 CODE
+21 42 0 CODE
+22 45 0 CODE
+23 48 0 CODE
+24 4B 0 CODE
+25 4E 0 CODE
+26 51 0 CODE
+27 54 0 CODE
+28 57 0 CODE
+30 5A 0 CODE
+32 5D 0 CODE
+33 63 0 CODE
+35 6A 0 CODE
+36 70 0 CODE
+38 77 0 CODE
+39 7D 0 CODE
+41 84 0 CODE
+42 8A 0 CODE
+43 91 0 CODE
